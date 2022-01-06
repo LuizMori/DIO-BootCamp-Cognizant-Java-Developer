@@ -1,0 +1,9 @@
+04.01.2022
+
+Segundo passo: Conceitos Iniciais sobre estrutura de dados, arrays e registro
+
+Da mesma forma que da primeira aula, foi passado pelo instrutor de maneira didática, clara, objetiva os conceitos referentes a estrutura de dados.
+
+Nesse mesmo sentido, foi explicado sobre vetores e matrizes, registros, listas, pilhas, filas, árvores, tabela Hash e Grafos.
+
+Todos conceitos que não tinha conhecimento e que após a explicação do instrutor, tudo ficou muito mais claro e as coisas fizeram mais sentido.

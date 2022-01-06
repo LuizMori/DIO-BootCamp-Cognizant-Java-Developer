@@ -1,0 +1,13 @@
+06.01.2022
+
+Quarto passo:
+
+Consegui finalmente finalizar o curso de Git/GitHub (super interessante a parte que o instrutor vem do futuro), mas vamos lá que este não é foco.
+
+Como havia dito anteriormente, o curso foi totalmente explicado e com a serenidade de quem entende o que está fazendo e não tem pressa para passar os ensinamentos.
+
+É de extrema importância entender como que funciona o Git/GitHub ainda mais para os dias atuais em que há muito do trabalho remoto aliado ao trabalho em equipe.
+
+O curso deu um norte de como funciona o Git/GitHub por "debaixo dos panos", foi explicado com detalhes e exemplos as funcionalidades do Git e como estão conectados com o GitHub.
+
+Após, parti para o desafio de criar um repositório, motivo pelo qual estou escrevendo estes passo a passo dos meus estudos.
