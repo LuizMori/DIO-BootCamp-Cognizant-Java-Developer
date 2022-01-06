@@ -1,0 +1,26 @@
+**Introdução**
+
+Após estudar em uma plataforma online, conheci a DIO através do Instagram, onde me interessei pelo BootCamp.
+Desta forma, resolvi me cadastrar para verificar e achei interessante a proposta da DIO..
+Nesse sentido, iniciei os estudos no dia 03.01.2022, e tenho como principal objetivo realizar a transição de carreira, vez que a minha atual não atende as expectativas e nem o que sempre desejei.
+
+
+**03.01.2022**
+
+Primeiro passo: Introdução à Lógica da Programação.
+
+Com aulas super didáticas e com um excelente instrutor, com uma abordagem objetiva, conceitual e exemplificativa, pude compreender melhor a Lógica da Programação.
+
+Foi ensinado o que é a Lógica da Programação, metacognição, abstração.
+
+Após, falou-se sobre algorítmos e pseudocódigos, fluxogramas, variáveis e constantes. Diversos conceitos que sequer imaginei e que agora tenho conhecimento.
+
+Também abordou sobre a importância da tomada de decisões, apresentando as expressões aritméticas, expressões literais e relacionais.
+
+Sem prejuízo, também ensinou acerca da concatenação, estrutura de repetição e linguagem da programação.
+
+Foi apresentado o Portugol, uma pseudolinguagem que permite o desenvolvimento de algoritmos estruturados em língua nativa, de forma simples e intuitiva.
+
+No mesmo momento, também foram apresentados o desvio condicional, laços de repetição, matrizes e vetores.
+
+Em suma, foi uma matéria de extrema relevância, tendo em vista que o conhecimento anteriormente obtido não abordava de maneira clara a real intenção da lógica da programação.
