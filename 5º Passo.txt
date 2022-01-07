@@ -1,0 +1,11 @@
+07.01.2022
+
+Quinto passo:
+
+Iniciei o curso Dominando IDEs Java com a brilhante explicação sobre as IDEs Eclipse e IntelliJ.
+
+Tinha em mente que iria utilizar o IDE Eclipse tendo em vista que já tive contato com ele anteriormente, porém, após a finalização deste curso e visto que ele possuia certa similaridade com o PyCharm, pensei em baixa-lo, mas não o fiz.
+
+Todavia, tendo iniciado o curso de Variáveis, Tipos de Dados e Operadores Matemáticos em Java onde foi dito que iria ser utilizado o IntelliJ, resolvi baixar o programa, o que foi ótimo, pois conforme dito, percebi a semelhança entre ele e o PyCharm, o qual já havia utilizado para estudar e realizar alguns projetos em Python.
+
+Seguimos firme nos estudos... 
