@@ -1,0 +1,13 @@
+08.01.2022
+
+Quinto passo:
+
+Entendendo métodos JAVA...
+
+Por mais que possa parecer repetitivo, acho importante ter aulas conceituais e teóricas para poder aplicar na prática o que foi aprendido.
+
+Ressalto que, ao meu ver, esta é a melhor maneira de aprendizado, ainda mais para quem não é da área.
+
+A aula acerca da criação de métodos, deixou de maneira muito mais clara o significado das expressões utilizadas na linguagem Java. Por exemplo, somente com a teoria pude entender o significado da "public", "protected" ou "private", "static" ou "final", suas utilidades e particularidades, dentre outros.
+
+Enfim, mais uma excelente aula.
